@@ -1,2 +1,2 @@
 # hello-akka
-Collection of all Akka patterns
+Collection of Akka patterns
